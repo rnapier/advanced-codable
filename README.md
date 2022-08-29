@@ -9,6 +9,6 @@ These are the materials and links from the Advanced Codable talk.
 * [Sourcery](https://github.com/krzysztofzablocki/Sourcery)
 * [quicktype](https://app.quicktype.io)
 * [swift-corelibs-foundation](https://github.com/apple/swift-corelibs-foundation)
-* [Darwin JSONCoder](https://github.com/apple/swift-corelibs-foundation/Darwin/Foundation-swiftoverlay/SwiftEncoder.swift)
-* [Non-Darwin JSONCoder](https://github.com/apple/swift-corelibs-foundation/Sources/Foundation) (Codable, JSONDecoder, JSONEncoder, JSONSerializaton, JSONSerialization+Parser)
+* [Darwin JSONCoder](https://github.com/apple/swift-corelibs-foundation/blob/main/Darwin/Foundation-swiftoverlay/JSONEncoder.swift)
+* [Non-Darwin JSONCoder](https://github.com/apple/swift-corelibs-foundation/tree/main/Sources/Foundation) (Codable, JSONDecoder, JSONEncoder, JSONSerialization, JSONSerialization+Parser)
 
