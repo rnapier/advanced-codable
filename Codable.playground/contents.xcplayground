@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Basic'/>
+        <page name='ByHand'/>
+        <page name='MoreByHand'/>
+        <page name='Extracting'/>
+        <page name='AnyCodingKey'/>
+        <page name='AnyCodingKey2'/>
+        <page name='DynamicKey'/>
+        <page name='DynamicKey2'/>
+        <page name='Defaulting'/>
+        <page name='Person'/>
+        <page name='ManualArray'/>
+        <page name='Either'/>
+        <page name='OneOf'/>
+        <page name='CompareEither'/>
+        <page name='Point'/>
+        <page name='Levels'/>
+        <page name='Levels2'/>
+        <page name='Levels3'/>
+        <page name='Levels4'/>
+        <page name='Nested'/>
+        <page name='Tags'/>
+        <page name='Errors'/>
+        <page name='Path'/>
+        <page name='Path2'/>
+        <page name='Super'/>
+        <page name='Classes'/>
+        <page name='JSONValue'/>
+        <page name='NestedDrawers'/>
+        <page name='Extract'/>
+        <page name='Decimals'/>
+        <page name='Optionals'/>
+        <page name='IntegerIndex'/>
+    </pages>
+</playground>
